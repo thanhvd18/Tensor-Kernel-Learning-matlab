@@ -1,3 +1,5 @@
 Pandas
 Matplotlib
 umap-learn
+tensorly
+MKLpy
